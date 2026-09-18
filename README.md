@@ -141,19 +141,19 @@ Também foi utilizada uma fonte externa para melhorar a aparência da interface.
 
 ---
 
-# 📸 Prints das telas
+#  Prints das telas
 
 Os prints das telas do aplicativo devem ficar dentro da pasta `prints`, localizada na raiz do projeto.
 
-### 🌸 Tela Splash
+### Tela Splash
 
 ![Tela Splash](print/splash.png)
 
-### 🔐 Tela de Login
+###  Tela de Login
 
 ![Tela de Login](print/login.png)
 
-### 🏠 Tela Home
+###  Tela Home
 
 ![Tela Home](print/home.png)
 
@@ -161,7 +161,10 @@ Os prints das telas do aplicativo devem ficar dentro da pasta `prints`, localiza
 
 ![Menu lateral](print/menu.png)
 
-### 📝 Tela de Anotações
+### Modo escuro
+![Modo escuro](print/modoescuro.png)
+
+### Tela de Anotações
 
 ![Tela de Anotações](print/anotacoes.png)
 
