@@ -1,4 +1,4 @@
-# 📝 Aplicativo de Notas
+# Aplicativo de Notas
 
 Aplicativo mobile desenvolvido em **Flutter e Dart** para a **Aula 04 — Consumo de APIs Externas**.
 
@@ -6,7 +6,7 @@ O projeto consiste em um aplicativo de **bloco de notas**, desenvolvido com uma 
 
 ---
 
-## 📱 Sobre o projeto
+## Sobre o projeto
 
 O objetivo do projeto é aplicar conceitos de desenvolvimento de aplicativos mobile utilizando Flutter, incluindo:
 
@@ -22,9 +22,9 @@ O objetivo do projeto é aplicar conceitos de desenvolvimento de aplicativos mob
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-### 🌸 Tela Splash
+### Tela Splash
 
 Ao iniciar o aplicativo, é apresentada uma tela Splash com uma animação de entrada e saída.
 
@@ -34,7 +34,7 @@ A Splash também pode ser acessada novamente através do menu lateral.
 
 ---
 
-### 🔐 Tela de Login
+###  Tela de Login
 
 A tela de login utiliza a **API DummyJSON** para realizar a autenticação do usuário.
 
@@ -49,7 +49,7 @@ Caso os dados estejam corretos, o usuário consegue acessar o aplicativo.
 
 Caso estejam incorretos, uma mensagem informa que o acesso foi negado.
 
-#### 👤 Login para teste
+#### Login para teste
 
 Utilize os seguintes dados para testar o aplicativo:
 
@@ -65,7 +65,7 @@ emilys
 emilyspass
 ```
 
-### 🌐 API utilizada
+###  API utilizada
 
 ```text
 https://dummyjson.com/auth/login
@@ -73,7 +73,7 @@ https://dummyjson.com/auth/login
 
 ---
 
-## 🏠 Tela Home
+##  Tela Home
 
 Após realizar o login, o usuário é direcionado para a tela principal do aplicativo.
 
@@ -89,7 +89,7 @@ A Home possui:
 
 ---
 
-## 📝 Sistema de Anotações
+##  Sistema de Anotações
 
 O aplicativo funciona como um bloco de notas.
 
@@ -104,7 +104,7 @@ O botão `+` localizado na Home permite adicionar uma nova anotação.
 
 ---
 
-## ☰ Menu Lateral
+## Menu Lateral
 
 O aplicativo possui um menu lateral do tipo **hamburger/sandwich**.
 
@@ -115,11 +115,11 @@ Nele estão disponíveis as principais opções:
 * 📝 Anotações
 * 🚪 Sair
 
-### 🌸 Splash
+### Splash
 
 Permite acessar novamente a tela Splash e visualizar sua animação.
 
-### 🚪 Sair
+### Sair
 
 Permite encerrar a sessão/aplicativo conforme o funcionamento implementado no projeto.
 
@@ -127,7 +127,7 @@ Permite encerrar a sessão/aplicativo conforme o funcionamento implementado no p
 
 ---
 
-## 🎨 Interface
+## Interface
 
 O aplicativo possui uma identidade visual baseada em **tons de rosa**, buscando uma aparência:
 
@@ -170,7 +170,7 @@ Os prints das telas do aplicativo devem ficar dentro da pasta `prints`, localiza
 
 ---
 
-## 📁 Organização dos prints
+## Organização dos prints
 
 A pasta deve estar organizada da seguinte maneira:
 
@@ -192,7 +192,7 @@ projeto/
 
 ---
 
-# 📦 Dependências
+# Dependências
 
 O projeto foi desenvolvido utilizando **Flutter** e **Dart**.
 
@@ -221,7 +221,7 @@ dependencies:
 
 ---
 
-# ⚙️ Requisitos
+#  Requisitos
 
 Para executar o projeto, é necessário possuir:
 
@@ -240,7 +240,7 @@ flutter doctor
 
 ---
 
-# 🚀 Como executar
+#  Como executar
 
 ## 1. Clonar o projeto
 
@@ -286,7 +286,7 @@ flutter run
 
 ---
 
-# 🔐 Como testar o login
+#  Como testar o login
 
 Ao abrir o aplicativo:
 
@@ -311,7 +311,7 @@ Após a autenticação, o usuário será direcionado para a tela principal, onde
 
 ---
 
-# 🌐 API utilizada
+# API utilizada
 
 O projeto utiliza a **DummyJSON** para realizar a autenticação do usuário.
 
@@ -334,7 +334,7 @@ A API retorna os dados de autenticação quando o usuário é válido.
 
 ---
 
-# 💾 Persistência de dados
+#  Persistência de dados
 
 O aplicativo utiliza armazenamento local para manter informações necessárias ao funcionamento da aplicação.
 
@@ -346,7 +346,7 @@ shared_preferences
 
 ---
 
-# 📁 Estrutura do projeto
+#  Estrutura do projeto
 
 A estrutura principal do projeto está organizada da seguinte forma:
 
@@ -372,7 +372,7 @@ lib/
 
 ---
 
-# 🛠️ Tecnologias utilizadas
+#  Tecnologias utilizadas
 
 * **Flutter**
 * **Dart**
@@ -385,11 +385,11 @@ lib/
 
 ---
 
-# 📲 APK
+# APK
 
 O arquivo APK do aplicativo pode ser disponibilizado através de um link para download.
 
-### ⬇️ Download do APK
+### Download do APK
 
 **[BAIXAR APK](LINK_DO_APK)**
 
@@ -397,7 +397,7 @@ O arquivo APK do aplicativo pode ser disponibilizado através de um link para do
 
 ---
 
-# 🔨 Gerando o APK
+#  Gerando o APK
 
 Para gerar o APK em modo release, execute:
 
@@ -413,7 +413,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ---
 
-# 🎯 Capacidades técnicas
+# Capacidades técnicas
 
 O projeto atende às capacidades propostas na atividade:
 
@@ -431,7 +431,7 @@ Utilização de classes, objetos e organização do código em diferentes arquiv
 
 ---
 
-# 📚 Conhecimentos trabalhados
+# Conhecimentos trabalhados
 
 Durante o desenvolvimento do projeto foram trabalhados:
 
@@ -448,7 +448,7 @@ Durante o desenvolvimento do projeto foram trabalhados:
 
 ---
 
-# 🎓 Projeto acadêmico
+# Projeto acadêmico
 
 **Aula 04 — Consumo de APIs Externas**
 
